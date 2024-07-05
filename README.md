@@ -3,6 +3,7 @@
 🌱 I'm currently training to be **WEB Development Full-Stack**  
 🧠 I'm learning HTML, CSS and JavaScript  
 🌍 I'm based in Colombia  
+🤜🤛 I frequently attend tech community events like: Google Developer Group (GDG), PyLadies, Pioneras
 👯 I'm a volunteer in PyLadies tech community  
 ✉️ You can shoot me an email at luisa.ramirezrpo10@gmail.com 
 
